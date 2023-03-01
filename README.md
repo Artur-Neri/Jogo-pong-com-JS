@@ -1,3 +1,3 @@
-# Jogo-pong-com-JS
+# Pong game JS
 
-Link para jogar no navegador: 
+Link for playing in the browser: https://artur-neri.github.io/Jogo-pong-com-JS/
