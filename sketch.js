@@ -45,7 +45,7 @@ function preload(){
 
 function setup() {
   createCanvas(600, 400);
-  // trilha.loop();
+  trilha.loop();
 }
 
 function draw() {
@@ -54,7 +54,7 @@ function draw() {
   spawnPlayer(xPlayer, yPlayer);
   spawnPlayer(xCpu, yCpu);
   showScoreboard();
-  // scorePoint();
+  scorePoint();
   moveOpponent();
   moveBall();
   verifyCollision(xPlayer, yPlayer);
